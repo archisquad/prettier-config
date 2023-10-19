@@ -1,0 +1,44 @@
+{
+  "name": "@archisquad/prettier-config",
+  "version": "0.1.0",
+  "description": "archisquad's prettier config",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "release": "changeset publish",
+    "version": "changeset version --snapshot",
+    "prepare": "husky install"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "archisquad"
+  ],
+  "maintainers": [
+    {
+      "name": "Mateusz Gostański",
+      "email": "mateusz.gostanski@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:archisquad/prettier-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.2.0",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.5.4"
+  },
+  "devDependencies": {
+    "@changesets/cli": "2.26.2",
+    "@commitlint/cli": "17.7.1",
+    "commitlint-config-gitmoji": "2.3.1",
+    "gitmoji-cli": "8.5.0",
+    "husky": "8.0.3"
+  }
+}
