@@ -1,5 +1,11 @@
 # @archisquad/prettier-config
 
+## 1.1.0
+
+### Minor Changes
+
+- cb1d3dc: Upgrade dependencies: prettier to v3.2.5, prettier-plugin-tailwindcss to v0.5.11
+
 ## 1.0.1
 
 ### Patch Changes
