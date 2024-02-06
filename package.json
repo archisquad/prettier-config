@@ -8,7 +8,7 @@
     "format": "prettier --write .",
     "release": "changeset publish",
     "version": "changeset version --snapshot",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "keywords": [
     "prettier",
