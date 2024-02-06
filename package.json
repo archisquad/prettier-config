@@ -8,7 +8,7 @@
     "format": "prettier --write .",
     "release": "changeset publish",
     "version": "changeset version --snapshot",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "keywords": [
     "prettier",
@@ -39,6 +39,6 @@
     "@commitlint/cli": "18.6.0",
     "commitlint-config-gitmoji": "2.3.1",
     "gitmoji-cli": "9.1.0",
-    "husky": "8.0.3"
+    "husky": "9.0.10"
   }
 }
