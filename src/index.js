@@ -18,8 +18,6 @@ const config = {
   plugins: [
     "prettier-plugin-tailwindcss",
   ],
-  importOrderSeparation: false,
-  importOrderSortSpecifiers: true,
 }
 
 export default config
