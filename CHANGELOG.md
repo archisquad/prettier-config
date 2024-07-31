@@ -1,5 +1,11 @@
 # @archisquad/prettier-config
 
+## 2.0.1
+
+### Patch Changes
+
+- ad49f0e: [FIXED]: Removed sorting values from config
+
 ## 2.0.0
 
 ### Major Changes
