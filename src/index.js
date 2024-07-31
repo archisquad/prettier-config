@@ -17,7 +17,6 @@ const config = {
   singleAttributePerLine: false,
   plugins: [
     "prettier-plugin-tailwindcss",
-    "@trivago/prettier-plugin-sort-imports",
   ],
   importOrderSeparation: false,
   importOrderSortSpecifiers: true,
