@@ -30,14 +30,14 @@
     "access": "public"
   },
   "dependencies": {
-    "prettier": "3.3.3",
-    "prettier-plugin-tailwindcss": "0.6.5"
+    "prettier": "3.6.2",
+    "prettier-plugin-tailwindcss": "0.7.1"
   },
   "devDependencies": {
-    "@changesets/cli": "2.27.7",
-    "@commitlint/cli": "19.3.0",
+    "@changesets/cli": "2.29.7",
+    "@commitlint/cli": "19.8.1",
     "commitlint-config-gitmoji": "2.3.1",
-    "gitmoji-cli": "9.4.0",
-    "husky": "9.1.4"
+    "gitmoji-cli": "9.7.0",
+    "husky": "9.1.7"
   }
 }
