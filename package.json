@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "prettier": "3.7.3",
-    "prettier-plugin-tailwindcss": "0.7.1"
+    "prettier-plugin-tailwindcss": "0.7.2"
   },
   "devDependencies": {
     "@changesets/cli": "2.29.8",
