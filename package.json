@@ -30,7 +30,7 @@
     "access": "public"
   },
   "dependencies": {
-    "prettier": "3.9.7",
+    "prettier": "3.9.8",
     "prettier-plugin-tailwindcss": "0.8.1"
   },
   "devDependencies": {
